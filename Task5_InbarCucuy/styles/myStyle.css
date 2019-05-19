@@ -1,0 +1,86 @@
+body 
+{
+    direction:rtl;
+}
+
+#container {
+    width: 960px;
+    margin: 0px auto;
+
+}
+body {
+    background-image: url('../images/back6.jpg');
+    background-repeat: no-repeat;
+    background-size: 1500px 2100px;
+    background-position: top center;
+}
+
+#opening {
+    font: 65px Calibri;
+    text-align: center;
+    margin-top:690px;
+}
+#interactiv, #tec, #lern {
+    font: 40px Calibri;
+    width: 600px;
+    margin-right: 70px;
+}
+#design {
+    background-image: url('../images/computer.png');
+    background-size: 60px;
+    background-repeat: no-repeat;
+    width: 60px;
+    height: 60px;
+    position: absolute 0px 30px 0px 0px;
+    margin-top: -40px;
+}
+
+#tecIcon {
+    background-image: url('../images/developer.png');
+    background-size: 60px;
+    background-repeat: no-repeat;
+    width: 60px;
+    height: 60px;
+    position: absolute 0px 30px 0px 0px;
+    margin-top: -40px;
+}
+
+#lernIcon {
+    background-image: url('../images/chemistry-class-instructions.png');
+    background-size: 60px;
+    background-repeat: no-repeat;
+    width: 60px;
+    height: 60px;
+    position: absolute 0px 30px 0px 0px;
+    margin-top: -40px;
+}
+
+#logoHit {
+    width: 250px;
+    height: 150px;
+    position:relative;
+    right:400px;
+}
+    #logoHit:hover {
+        width: 300px;
+        height: 200px;
+    }
+h1 {
+    font-size: 100px;
+    color: #008285;
+    text-align: center;
+}
+#pratim {
+    font: bold 60px Calibri;
+    
+    margin-top: 100px;
+    width: 1100px;
+    text-align: center;
+}
+form {
+    font: 38px Calibri;
+}
+input{
+    width:200px;
+    height:50px;
+}
